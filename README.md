@@ -81,11 +81,6 @@ Access the terminal at: `http://127.0.0.1:5000`
 
 ---
 
-## 🖼️ Dashboard Preview
-![Dashboard Screenshot](output.png)
-
----
-
 ## 🤝 Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request if you want to add more ML algorithms or enhance the UI glow effects.
 
