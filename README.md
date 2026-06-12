@@ -94,4 +94,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-**Developed with ❤️ by [Ahammadbi123](https://github.com/Ahammadbi123)**
+**Developed with ❤️ by SHAIK AHAMMAD BI**
