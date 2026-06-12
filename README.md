@@ -82,8 +82,7 @@ Access the terminal at: `http://127.0.0.1:5000`
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](https://via.placeholder.com/1000x500/020617/00f2ff?text=MLOps+Elite+Dashboard+Preview)
-*(Replace this with your actual project screenshot for maximum impact!)*
+![Dashboard Screenshot](output.png)
 
 ---
 
