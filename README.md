@@ -5,6 +5,10 @@
 [![Flask Framework](https://img.shields.com/badge/framework-Flask-lightgrey.svg)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.com/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**🔗 Live Demo:** [![Live Demo](https://img.shields.com/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://nec-crt-project5-mlops-crud-dashboard.onrender.com)
+
+---
+
 ## 🌌 Project Overview
 **MLOps Nexus** is a professional-grade dataset management dashboard designed for machine learning pipelines. It provides an intuitive, futuristic interface to manage metadata records used by training algorithms. Beyond simple CRUD (Create, Read, Update, Delete) operations, it features a direct integration with an automated retraining engine to ensure your models are always updated with the latest data.
 
